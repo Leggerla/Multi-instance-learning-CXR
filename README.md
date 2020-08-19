@@ -1,6 +1,7 @@
 # Multi-instance-learning-CXR
 
 This is my implementation of the paper
+
 **LOCALIZATION OF CRITICAL FINDINGS IN CHEST X-RAY WITHOUT LOCAL
 ANNOTATIONS USING MULTI-INSTANCE LEARNING** (https://arxiv.org/abs/2001.08817)
 
